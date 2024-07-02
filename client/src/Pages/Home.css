@@ -1,0 +1,41 @@
+.home-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.home-container h1 {
+  font-size: 100px;
+  margin-bottom: 50px;
+}
+
+.home-container p {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.description, .wallet-instruction {
+  margin-bottom: 1em;
+  color: #333;
+}
+
+.buttons-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.nav-button {
+  display: inline-block;
+  background-color: #4caf50; /* Example color */
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none; /* Removes underline from links */
+  text-align: center;
+  transition: background-color 0.3s;
+}
+
+.nav-button:hover {
+  background-color: #45a049; /* Darker shade on hover */
+}
