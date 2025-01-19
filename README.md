@@ -1,13 +1,3 @@
-# Sample Hardhat Project
+# WannaBet
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+This dapp is a simple betting app that allows 2 users to bet on what the price of bitcoin will be at a certain date
